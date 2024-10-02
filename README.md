@@ -4,7 +4,6 @@
 |----|---|-----|------|
 |**Bagas Prihantoro Putra**|**312310599**|**TI.23.A6**|**Pemrograman Orientasi Objek**|
 
-![gambar](SS.SS1/jpeg)
 
 # Input Code :
 ## • Data Pesawat
