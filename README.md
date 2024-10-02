@@ -175,4 +175,4 @@ public static void main(String[] args) {
 ```
 
 # Output Code :
-![gambar](SS.SS2/png)
+![gambar](SS.SS1/png)
