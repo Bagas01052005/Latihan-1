@@ -1,7 +1,6 @@
 # Latihan-1
 # Input Code :
 # Data Pesawat
-
 public class PesawatTempur {
 
     private final String warna;
