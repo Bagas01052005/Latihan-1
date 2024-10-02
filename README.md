@@ -1,6 +1,6 @@
 # Latihan-1
 # Input Code :
-• Data Pesawat
+# Data Pesawat
 public class PesawatTempur {
 
     private final String warna;
@@ -18,11 +18,11 @@ public class PesawatTempur {
         this.energi = 100;
         this.arah = "Utara";
     }
-• Fungsi Untuk Menyalakan Mesin
+# Fungsi Untuk Menyalakan Mesin
 public void nyalakanMesin() {
         System.out.println("Mesin pesawat dinyalakan...");
     }
-• Fungsi Untuk Terbang
+# Fungsi Untuk Terbang
  public void terbang() {
         if (this.kecepatan > 0) {
             if (this.energi >= 10) { 
@@ -35,7 +35,7 @@ public void nyalakanMesin() {
             System.out.println("Pesawat harus memiliki kecepatan untuk terbang.");
         }
     }
-• Fungsi Untuk Menambah Kecepatan
+# Fungsi Untuk Menambah Kecepatan
 public void tambahKecepatan(int kecepatan) {
         this.kecepatan += kecepatan;
         if (this.kecepatan > MAX_KECEPATAN) {
@@ -43,7 +43,7 @@ public void tambahKecepatan(int kecepatan) {
         }
         System.out.println("Kecepatan pesawat bertambah menjadi " + this.kecepatan + " km/jam");
     }
-• Fungsi Untuk Mengurangi Kecepatan
+# Fungsi Untuk Mengurangi Kecepatan
 public void kurangiKecepatan(int kecepatan) {
         this.kecepatan -= kecepatan;
         if (this.kecepatan < 0) {
@@ -51,12 +51,12 @@ public void kurangiKecepatan(int kecepatan) {
         }
         System.out.println("Kecepatan pesawat berkurang menjadi " + this.kecepatan + " km/jam");
     }
-• Fungsi Untuk Belok
+# Fungsi Untuk Belok
 public void belok(String arah) {
         this.arah = arah;
         System.out.println("Pesawat berbelok ke arah " + this.arah);
     }
-• Fungsi Untuk Turun
+# Fungsi Untuk Turun
 public void turun() {
         if (this.ketinggian - 100 >= 0) {
             this.ketinggian -= 100;
@@ -65,7 +65,7 @@ public void turun() {
             System.out.println("Pesawat sudah berada di ketinggian minimum.");
         }
     }
-• Fungsi Untuk Naik
+# Fungsi Untuk Naik
 public void naik() {
         if (this.ketinggian + 100 <= MAX_KETINGGIAN) {
             this.ketinggian += 100;
@@ -74,7 +74,7 @@ public void naik() {
             System.out.println("Tidak dapat naik, sudah mencapai ketinggian maksimum.");
         }
     }
-• Fungsi Untuk Menampilkan Informasi Pesawat
+# Fungsi Untuk Menampilkan Informasi Pesawat
 public void infoPesawat() {
         System.out.println("------------------------");
         System.out.println("Informasi Pesawat:");
@@ -85,7 +85,7 @@ public void infoPesawat() {
         System.out.println("Arah: " + this.arah);
         System.out.println("------------------------");
     }
-• Membuat Objek Pesawat
+# Membuat Objek Pesawat
 public static void main(String[] args) {
 
         PesawatTempur pesawat1 = new PesawatTempur("Putih");
@@ -113,5 +113,4 @@ public static void main(String[] args) {
         pesawat1.infoPesawat();
     }
 }
-Output Code :
-gambar
+
