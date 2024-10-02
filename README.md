@@ -11,6 +11,7 @@ public class PesawatTempur {
     private static final int MAX_KECEPATAN = 900;
     private static final int MAX_KETINGGIAN = 10000; 
 
+# Fungsi Untuk Menyalakan Mesin
     public PesawatTempur(String warna) {
         this.warna = warna;
         this.ketinggian = 0;
@@ -18,10 +19,8 @@ public class PesawatTempur {
         this.energi = 100;
         this.arah = "Utara";
     }
-# Fungsi Untuk Menyalakan Mesin
 public void nyalakanMesin() {
         System.out.println("Mesin pesawat dinyalakan...");
-    }
     }
 # Fungsi Untuk Terbang
  public void terbang() {
