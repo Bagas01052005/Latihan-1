@@ -22,14 +22,12 @@ public class PesawatTempur {
 
 
 # Fungsi Untuk Menyalakan Mesin
-
 public void nyalakanMesin() {
         System.out.println("Mesin pesawat dinyalakan...");
     }
 
 # Fungsi Untuk Terbang
-
- public void terbang() {
+public void terbang() {
         if (this.kecepatan > 0) {
             if (this.energi >= 10) { 
                 this.energi -= 10; // 
@@ -41,6 +39,7 @@ public void nyalakanMesin() {
             System.out.println("Pesawat harus memiliki kecepatan untuk terbang.");
         }
     }
+ 
 
 # Fungsi Untuk Menambahkan Kecepatan
 
