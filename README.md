@@ -6,7 +6,7 @@
 
 
 # Input Code :
-![gambar](SS/SS1.jpeg)
+![gambar](SS/SS1.png)
 
 ## • Data Pesawat
 ```java
