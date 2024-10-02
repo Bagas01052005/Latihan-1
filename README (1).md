@@ -2,7 +2,7 @@
 
 |Nama|NIM|Kelas|Mata Kuliah|
 |----|---|-----|------|
-|**Radityatama Nugraha**|**312310644**|**TI.23.A6**|**Pemrograman Orientasi Objek**|
+|**Bagas Prihantoro Putra**|**312310599**|**TI.23.A6**|**Pemrograman Orientasi Objek**|
 
 ![gambar](dokumentasi7/sss2.jpeg)
 
