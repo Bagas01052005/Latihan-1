@@ -22,6 +22,7 @@ public class PesawatTempur {
 public void nyalakanMesin() {
         System.out.println("Mesin pesawat dinyalakan...");
     }
+    }
 # Fungsi Untuk Terbang
  public void terbang() {
         if (this.kecepatan > 0) {
