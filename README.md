@@ -4,7 +4,7 @@
 |----|---|-----|------|
 |**Bagas Prihantoro Putra**|**312310599**|**TI.23.A6**|**Pemrograman Orientasi Objek**|
 
-![gambar](dokumentasi7/sss2.jpeg)
+![gambar](SS.SS1/jpeg)
 
 # Input Code :
 ## • Data Pesawat
@@ -176,4 +176,4 @@ public static void main(String[] args) {
 ```
 
 # Output Code :
-![gambar](dokumentasi7/sss3.png)
+![gambar](SS.SS2/png)
