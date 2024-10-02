@@ -1,4 +1,5 @@
 # Latihan-1
+# OOP Pertemuan 2
 public class PesawatTempur {
 
     private final String warna;
