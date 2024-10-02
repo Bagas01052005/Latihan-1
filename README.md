@@ -6,6 +6,8 @@
 
 
 # Input Code :
+![gambar](SS/SS1.jpeg)
+
 ## • Data Pesawat
 ```java
 public class PesawatTempur {
